@@ -10,6 +10,8 @@ requests = "*"
 slowapi = "*"
 
 [dev-packages]
+flake8 = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.11"
